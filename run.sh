@@ -1,4 +1,4 @@
-fileName="variable.cpp"
+fileName="tut2.cpp"
 path="/data/data/com.termux/files/home/"
 
 g++ $fileName
